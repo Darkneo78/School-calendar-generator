@@ -1,0 +1,43 @@
+{
+  "term": "ACC Spring 2026",
+  "term_start": "2026-01-20",
+  "term_end": "2026-05-17",
+
+  "events": [
+    {
+      "title": "COSC 1301 – Intro to Computer",
+      "days": ["SA"],
+      "start": "09:00",
+      "end": "12:30",
+      "location": "Virtual",
+      "notes": "Molina Sandoz"
+    },
+
+    {
+      "title": "COSC 1336 – Programming Fundamentals I",
+      "days": ["TU"],
+      "start": "18:00",
+      "end": "21:50",
+      "location": "Virtual",
+      "notes": "Warren"
+    },
+
+    {
+      "title": "EDUC 1300 – Learning Framework (Study Block)",
+      "days": ["MO"],
+      "start": "13:00",
+      "end": "14:30",
+      "location": "Home",
+      "notes": "Online class – self paced"
+    },
+
+    {
+      "title": "ENGL 2311 – Tech Writing (Study Block)",
+      "days": ["TH"],
+      "start": "13:00",
+      "end": "14:30",
+      "location": "Home",
+      "notes": "Online class – self paced"
+    }
+  ]
+}
